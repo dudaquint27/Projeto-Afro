@@ -1,0 +1,106 @@
+
+body{
+   width: 100%;
+   height: 100%;
+   margin: 0 auto;
+}
+
+ul{
+    padding:0px !important;
+}
+
+.menu-principal{
+    width: 100%;
+    background-color: black;
+    height: 60px;
+}
+
+main{
+    margin: 0 auto; 
+    width: 980px;
+    position: relative;
+}
+
+.logo{
+ 
+    width: 75%;
+    float: left;
+}
+
+body{
+    height: max-content;
+}
+.redes-sociais ul li{
+    margin-left: 20px;
+    list-style: none;
+    float: left;
+   
+}
+.redes-sociais{
+    float: right;
+    margin-top: 10px;
+}
+
+.header-2{
+    width: 980px;
+    margin: 0 auto;
+    padding: 12px;
+}
+.coluna-total{
+    border-bottom: 3px solid grey;
+    width: 100%;
+    height: 61px;
+}
+.menu ul li{
+
+    display: inline-block;
+    color: rgb(167, 166, 166);
+    margin-left: 10px;
+    height: 49px;
+}
+.menu ul li:hover{
+    border-bottom: 3px solid rgb(114, 19, 2);
+}
+
+.menu ul li a:hover{
+    color: rgb(114, 19, 2);
+}
+.menu ul li a {
+    text-decoration: none;
+    color: rgb(143, 140, 140);
+    font-size: 20px;
+    text-transform: uppercase;;
+}
+.menu{
+    width: 100%;
+}
+
+.carousel{
+    width:100%;
+}
+.w-100{
+    height: 500px;
+
+}
+.coluna{
+    width: 100%;
+    float:left;
+    position:relative;
+}
+#mapid{
+    height: 450px !important;
+}
+.col-lg-4 svg{
+    height: 50px;
+    width: 50px;
+}
+.col-lg-4 svg rect{
+    width:100;
+    height:100%;
+    fill:#777;
+}
+.col-lg-4 svg rect text{
+    x:50%;
+    y:50%;
+    fill:#777;
+}
